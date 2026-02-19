@@ -1,0 +1,24 @@
+DEFINITION PROMPTS - SECTION 3(2)
+[Definition] What is the definition of "employee" according to the Zanzibar Labour Relations Act 2005?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "employee" means any person who has entered into or works under a contract of service with an employer whether by way of manual labour, clerical work or otherwise and whether the contract is expressed or implied or is oral or in writing, and shall include any such person in the employment of the Government or of any local authority or private sector or any apprentice and learner who has entered into or works under any agreement whether expressed or implied or whether oral or in writing.
+
+[Definition] What does "essential service" mean under the Zanzibar Labour Relations Act 2005?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "essential service" means any service, whether rendered by the Government or any other body or person, the interruption of which is likely to endanger the life, health or personal safety of the whole or part of the population, and includes services mentioned under section 64(2) of this Act, which are: (a) water and sanitation; (b) electricity; (c) health services and its associated services; (d) air traffic control and civil aviation telecommunication and other navigational communication; (e) fire services; (f) transport services necessary for the operation of the foregoing services.
+
+[Definition] How is "strike" defined in the Zanzibar Labour Relations Act 2005?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "strike" means the cessation of work by a body of persons employed, acting in combination, or a concerted refusal or a refusal under a common understanding of any number of persons employed to continue to work for an employer in consequence of a trade dispute, done as a means of compelling their employer or any person or body of persons employed, or to aid other employees in compelling their employer, or any persons or body of persons employed, to accept or not to accept terms or conditions of or affecting employment.
+
+[Definition] What is a "bargaining unit" according to the Zanzibar Labour Relations Act?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "bargaining unit" means the level at which collective bargaining is taking place.
+
+[Definition] What is a "secondary strike" under the Zanzibar Labour Relations Act?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "secondary strike" means a strike or conduct in contemplation or furtherance of a strike undertaken by employees against an enterprise or employee in which they have no interest, in support of employees of that enterprise or employed by that employer.
+
+[Definition] What is a "lock-out" according to the Zanzibar Labour Relations Act?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "lock-out" means any action taken by an employer in contemplation or furtherance of a labour dispute which consist in the exclusion of a group of employees from a place of employment, the suspension of employment or work of a group of employees or a refusal to continue to employ a group of employees.
+
+[Definition] What is a "trade union" under the Zanzibar Labour Relations Act?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "trade union" means an association of employees, whether registered or not, having among its objects the representation and promotion of the interests of employees and the regulation of relations between employees and employers and includes a federation of trade unions unless it is clear from the context that only the first level association is meant, but does not include an association that is dominated by an employer and shall not include employers' association.
+
+[Definition] What is a "contract of employment" according to the Zanzibar Labour Relations Act?
+According to Section 3(2) of the Zanzibar Labour Relations Act 2005, "contract of employment" means any contract whether in writing or oral, whether express or implied, to employ or to serve as an employee for any period of time or number of days to be worked, or to execute any task or piece of work or to perform any journey and includes a foreign contract of service.

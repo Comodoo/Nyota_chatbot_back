@@ -1,0 +1,51 @@
+DISPUTE RESOLUTION PROMPTS - PART IX
+[Dispute Resolution] How are labour disputes filed?
+According to Section 73 of the Zanzibar Labour Relations Act 2005, any labour dispute whether existing or apprehended shall be at first instance filed before Dispute Handling Unit in prescribed form. Unit deals with filing, notification of parties, summons, fixing proceedings in manner provided by regulation.
+
+[Dispute Resolution] What is the mediation process?
+According to Section 74 of the Zanzibar Labour Relations Act 2005, dispute filed shall be referred to mediator from agreed panel. Mediator attempts to mediate within 30 working days (extendable by agreement). If settled, terms in writing signed by parties and mediator. If not settled, mediator issues certificate of unresolved dispute.
+
+[Dispute Resolution] What happens after mediation fails?
+According to Section 75 of the Zanzibar Labour Relations Act 2005, where certificate of unresolved dispute issued: (a) dispute of interest in essential service referred to compulsory arbitration within 14 days; (b) other dispute of interest referred to arbitration if parties agree; (c) where dispute not referred to arbitration, resort to lawful industrial action may be preferred. For dispute of right: (a) prescribed matters to compulsory arbitration; (b) other disputes to arbitration by agreement; (c) other cases referred to Court.
+
+[Dispute Resolution] What is the Dispute Handling Unit?
+According to Section 72 of the Zanzibar Labour Relations Act 2005, special Unit established under Commission to deal with all labour disputes. Commissioner appoints officer in charge and assigns staff and resources. Unit maintains independent records, registers and registry. Commissioner oversees but does not interfere in conduct of duties.
+
+[Dispute Resolution] What is the Tripartite Committee?
+According to Section 78 of the Zanzibar Labour Relations Act 2005, Minister in consultation with Labour Advisory Board establishes Tripartite Committee. Functions: (a) advise Unit on panels of arbitrators and mediators; (b) develop criteria for appointment; (c) develop professional and ethical standards; (d) advise on assessors for Court; (e) monitor dispute resolution system; (f) other functions assigned by Minister.
+
+[Dispute Resolution] How does arbitration work?
+According to Section 75 of the Zanzibar Labour Relations Act 2005, parties may refer dispute to arbitrators of their choice or from panel established by Unit. For essential service disputes, compulsory arbitration within 14 days. For other disputes, arbitration by agreement. Fees fixed by Minister after consultation with Labour Advisory Board. Remuneration for arbitrators paid by Commission at rate fixed by Minister.
+
+[Dispute Resolution] What happens if parties fail to attend hearings?
+According to Section 77 of the Zanzibar Labour Relations Act 2005, if initiating party fails to attend hearing, mediation period extended by 30 days. If respondent fails to attend, mediator may issue certificate permitting industrial action. If initiating party fails to attend mediation or arbitration, matter may be dismissed. If respondent fails to attend, default judgement may be granted.
+
+[Dispute Resolution] How can the Court assist in mediation/arbitration?
+According to Section 76 of the Zanzibar Labour Relations Act 2005, Court may refer dispute to arbitration and appoint arbitrator. Court may grant injunction or restraining order for proper disposal of dispute. Mediator or arbitrator may refer point of law to Court for interpretation. Court may review arbitration award or remit for reconsideration. Court assists by issuing necessary orders and directives.
+</lov-write>
+
+<lov-write file_path="industrial_court_prompts.txt"> # INDUSTRIAL COURT PROMPTS - PART X
+[Industrial Court] What is the Zanzibar Industrial Court?
+According to Section 80 of the Zanzibar Labour Relations Act 2005, division of High Court established known as Zanzibar Industrial Court. Jurisdiction: (a) hear and determine labour disputes referred under Act; (b) register collective agreements; (c) exercise other functions conferred by Act or written law.
+
+[Industrial Court] What is the composition of the Industrial Court?
+According to Section 81 of the Zanzibar Labour Relations Act 2005, Court consists of: (a) presiding judge appointed by President from judges or persons qualified to be judges after consultation with Chief Justice; (b) two assessors appointed by Chief Justice from panel submitted by employers' organisation and federation of trade unions.
+
+[Industrial Court] How are Court proceedings conducted?
+According to Section 83 of the Zanzibar Labour Relations Act 2005, Court sits as business demands or as presiding judge determines. Court properly constituted if presided by judge and two assessors (one from employers, one from trade unions). If assessor absent, judge and remaining assessor may continue. At conclusion, judge seeks and records opinion of assessors but not bound by them.
+
+[Industrial Court] What are the functions of the Industrial Court?
+According to Section 84 of the Zanzibar Labour Relations Act 2005, Court inquires into labour disputes and: (a) hears submissions from employees, trade unions, employers, organisations; (b) may seek advice from public officers, departments, Government institutions on financial and economic policies.
+
+[Industrial Court] Can Court awards be retrospective?
+According to Section 85 of the Zanzibar Labour Relations Act 2005, any award or collective agreement concerning labour dispute made by mediator, arbitrator or Court may be made retrospective.
+
+[Industrial Court] How are Court awards interpreted?
+According to Section 86 of the Zanzibar Labour Relations Act 2005, if question arises on interpretation of award, party may apply to Court for decision. Court decides after hearing parties or without hearing. Decision notified to parties and deemed part of award with same effect. For collective agreements before registration, mediator or arbitrator performs this function.
+
+[Industrial Court] What are the appeals process from Industrial Court?
+According to Section 87 of the Zanzibar Labour Relations Act 2005, any person aggrieved by order or decision of Court may appeal to Court of Appeal according to Court of Appeal's Rules. Settlement, awards or decisions binding on employers and employees as if decree of Court, notwithstanding right or intention to appeal.
+
+[Industrial Court] What are the rules of evidence in Industrial Court?
+According to Section 88 of the Zanzibar Labour Relations Act 2005, mediator, arbitrator or Court entitled to elicit all necessary information without being bound by rules of evidence. May require person to: (a) furnish particulars; (b) attend and give evidence; (c) produce documents. Witness not required to incriminate self. Failure to obey order is offence with fine up to 400,000 shillings or imprisonment up to 3 months.
+
